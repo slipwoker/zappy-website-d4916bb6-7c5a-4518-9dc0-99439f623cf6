@@ -1,0 +1,104 @@
+# נהרה מטפחות שהן תכשיט — Generative Engine Optimization Map
+
+> A designer-owned fashion accessories brand specializing in handcrafted headscarves (mitpachot) and hats, alongside accessories like simple scarves and jewelry. The brand emphasizes a clean, welcoming aesthetic with easy-to-use functionality — especially mobile-first product management. The store requires automatic promotions updates, a shopping cart for multiple items, a terms/regulations page, and integrates with Morning (Morning.co.il) payment processing.
+
+---
+
+## Pages
+
+### בית
+https://-d4916bb6.zappy5.app
+גלו עולם של מטפחות מעוצבות לנשים דתיות, מטפחות מלבן ייחודיות וכובעי וינט&#39;ג בעבודת יד. אקססוריז שהופכים כל הופעה לתכשיט. היכנסו עכשיו והתאהבו!
+
+### שירותים
+https://-d4916bb6.zappy5.app/services
+משלוחים מהירים, תשלום מאובטח עם Morning והחזרות בקלות. כל השירותים שמחכות לך כדי ליהנות ממטפחות מעוצבות ותכשיטים משלימים. בואי להתפנק!
+
+### אודות
+https://-d4916bb6.zappy5.app/about
+מאחורי כל מטפחת מלבן מסתתרת מעצבת עם חזון. הכירו את הסיפור של נהרה, המותג שהופך כובעי ברט מעוצבים בעבודת יד ומטפחות לאמירה אישית. כנסו לגלות עוד.
+
+### צור קשר
+https://-d4916bb6.zappy5.app/contact
+יש שאלה על מטפחת ראש אופנתית או רוצה המלצה אישית? צרי קשר עם נהרה עוד היום ונשמח לעזור לך למצוא את התכשיט המושלם. מחכות לך!
+
+### Products
+https://-d4916bb6.zappy5.app/products
+המוצרים שלנו - נהרה מטפחות שהן תכשיט
+
+### Cart
+https://-d4916bb6.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://-d4916bb6.zappy5.app/checkout
+תשלום
+
+### Login
+https://-d4916bb6.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://-d4916bb6.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://-d4916bb6.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://-d4916bb6.zappy5.app/product/:slug
+פרטי המוצר - נהרה מטפחות שהן תכשיט
+
+### Category
+https://-d4916bb6.zappy5.app/category/:slug
+מוצרים - נהרה מטפחות שהן תכשיט
+
+### תודה שפנית אלינו
+https://-d4916bb6.zappy5.app/thank-you
+נהרה מטפחות שהן תכשיט - תודה שפנית אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://-d4916bb6.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-d4916bb6.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-d4916bb6.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About נהרה מטפחות שהן תכשיט
+A designer-owned fashion accessories brand specializing in handcrafted headscarves (mitpachot) and hats, alongside accessories like simple scarves and jewelry. The brand emphasizes a clean, welcoming aesthetic with easy-to-use functionality — especially mobile-first product management. The store requires automatic promotions updates, a shopping cart for multiple items, a terms/regulations page, and integrates with Morning (Morning.co.il) payment processing.
+
+## Target Audience
+- נשים דתיות מודעות אופנה
+- אמהות צעירות מקצועיות
+- בלוגריות ומשפיעניות אופנה
+
+## Industry
+Fashion & Accessories E-commerce
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-d4916bb6.zappy5.app/sitemap.xml
+- Robots: https://-d4916bb6.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-d4916bb6.zappy5.app/llms-full.txt
+- Products (JSON): https://-d4916bb6.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-d4916bb6.zappy5.app/product-feed.xml
