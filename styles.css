@@ -9683,6 +9683,231 @@ div[id*="mic-access-tool-box"] button[class*="reset"] * {
 ._access-icon {
   display: flex !important;
 }
+
+/* AI-generated section */
+/* ============================================
+   נהרה Luxury Strip Section
+   Elegant text banner between hero and products
+   ============================================ */
+
+.nahara-luxury-strip {
+  background-color: #1a1a1a;
+  padding: 28px 20px 20px;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+  direction: rtl;
+  font-family: 'Assistant', 'Cormorant Garamond', 'Playfair Display', Georgia, 'Times New Roman', system-ui, serif;
+  border-top: 1px solid rgba(201, 168, 106, 0.15);
+  border-bottom: 1px solid rgba(201, 168, 106, 0.15);
+}
+
+/* Subtle radial glow behind text */
+.nahara-luxury-strip::before {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 600px;
+  max-width: 90%;
+  height: 100%;
+  background: radial-gradient(ellipse at center, rgba(201, 168, 106, 0.04) 0%, transparent 70%);
+  pointer-events: none;
+  z-index: 0;
+}
+
+.luxury-strip-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 24px;
+  max-width: 900px;
+  margin: 0 auto;
+  position: relative;
+  z-index: 1;
+}
+
+/* Ornament SVGs */
+.luxury-ornament {
+  flex-shrink: 0;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  animation: ornamentPulse 4s ease-in-out infinite;
+}
+
+.luxury-ornament-left {
+  animation-delay: 2s;
+}
+
+.ornament-svg {
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+
+@keyframes ornamentPulse {
+  0%, 100% { opacity: 0.65; transform: scale(1); }
+  50% { opacity: 1; transform: scale(1.08); }
+}
+
+/* Text wrapper */
+.luxury-text-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+}
+
+.luxury-tagline {
+  font-size: 1.35rem;
+  font-weight: 400;
+  letter-spacing: 0.06em;
+  color: #C9A86A;
+  margin: 0;
+  line-height: 1.6;
+  font-family: 'Cormorant Garamond', 'Playfair Display', Georgia, 'Times New Roman', serif;
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+  transition: color 0.3s ease;
+}
+
+.luxury-subtle-line {
+  display: block;
+  width: 60px;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, rgba(216, 167, 160, 0.5), transparent);
+  opacity: 0.7;
+}
+
+/* Bottom accent row */
+.luxury-bottom-accent {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  margin-top: 16px;
+  position: relative;
+  z-index: 1;
+}
+
+.accent-dot {
+  width: 4px;
+  height: 4px;
+  background-color: #C9A86A;
+  border-radius: 50%;
+  opacity: 0.6;
+}
+
+.accent-line {
+  width: 50px;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, #C9A86A, transparent);
+  opacity: 0.4;
+}
+
+.accent-diamond {
+  color: #D8A7A0;
+  font-size: 0.55rem;
+  opacity: 0.7;
+  line-height: 1;
+}
+
+/* ============================================
+   Responsive Breakpoints
+   ============================================ */
+
+@media (max-width: 768px) {
+  .nahara-luxury-strip {
+    padding: 22px 16px 16px;
+  }
+  
+  .luxury-strip-container {
+    gap: 14px;
+  }
+  
+  .luxury-ornament {
+    width: 36px;
+    height: 36px;
+  }
+  
+  .luxury-tagline {
+    font-size: 1.15rem;
+    letter-spacing: 0.04em;
+  }
+  
+  .luxury-subtle-line {
+    width: 40px;
+  }
+  
+  .accent-line {
+    width: 30px;
+  }
+  
+  .luxury-bottom-accent {
+    gap: 8px;
+    margin-top: 12px;
+  }
+}
+
+@media (max-width: 480px) {
+  .nahara-luxury-strip {
+    padding: 18px 12px 14px;
+  }
+  
+  .luxury-strip-container {
+    gap: 8px;
+  }
+  
+  .luxury-ornament {
+    width: 28px;
+    height: 28px;
+  }
+  
+  .luxury-tagline {
+    font-size: 1rem;
+    letter-spacing: 0.03em;
+  }
+  
+  .luxury-subtle-line {
+    width: 30px;
+  }
+  
+  .accent-line {
+    width: 20px;
+  }
+  
+  .luxury-bottom-accent {
+    gap: 6px;
+    margin-top: 10px;
+  }
+  
+  .accent-dot {
+    width: 3px;
+    height: 3px;
+  }
+  
+  .accent-diamond {
+    font-size: 0.45rem;
+  }
+}
+
+/* High-DPI / Retina adjustments */
+@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
+  .luxury-tagline {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+}
+
+/* Reduced motion preference */
+@media (prefers-reduced-motion: reduce) {
+  .luxury-ornament {
+    animation: none;
+  }
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
