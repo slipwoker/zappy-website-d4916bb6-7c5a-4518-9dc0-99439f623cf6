@@ -76,7 +76,27 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-_No products are currently configured._
+**Total active products: 3**
+
+### מטפחת אפורה מרופדת עם פרחים צהובים
+https://example.com/product/mtpcht-apvrh-mrvpdt-am-prchym-tshvbym-tkc0em
+- Price: 100.00 ILS (sale, was 135.00 ILS)
+- Availability: In stock
+- Description: מטפחת בגוון אפור בטקסטורת משבצות תפורה, מעוטרת ברקמת פאייטים כסופה ובבד פרחוני צהוב עם פרחים כחולים-לבנים. גדילי חרוזים כסופים תלויים להשלמת המראה.
+- Image: https://example.com/assets/product-1782396507545-bkp3hb.webp
+
+### מטפחת ירוק זית עם הדפס עלי קאמו
+https://example.com/product/mtpcht-yrvk-zyt-am-hdps-aly-kamv-4sgj7e
+- Price: 100.00 ILS (sale, was 135.00 ILS)
+- Availability: In stock
+- Description: מטפחת בסגנון צעיר ורענן בגוון ירוק זית – בד טקסטורה חלק בשילוב בד הדפס עלים בסגנון קאמו זהוב. מעוטרת בציצית ליים וסגול. מראה טבעי ואופנתי.
+- Image: https://example.com/assets/product-1782396599465-1x0vbk.webp
+
+### מטפחת סגולה עם שיפון ופאייטים
+https://example.com/product/mtpcht-sgvlh-am-shypvn-vpayytym-jat9gx
+- Price: 100.00 ILS (sale, was 135.00 ILS)
+- Availability: In stock
+- Description: מטפחת אלגנטית בגוון סגול-שזיף בשילוב בד פרחוני כתום, עם שכבת שיפון אפור שקוף מעוטרת פאייטים מנצנצים ושרשראות תלויות. לעיצוב יוקרתי וייחודי.
 
 ---
 

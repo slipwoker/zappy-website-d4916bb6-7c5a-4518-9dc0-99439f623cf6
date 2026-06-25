@@ -1,8 +1,73 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-25T13:37:34.261Z",
+  "generated_at": "2026-06-25T14:14:21.728Z",
   "base_url": "https://example.com",
   "currency": "ILS",
-  "count": 0,
-  "products": []
+  "count": 3,
+  "products": [
+    {
+      "id": "154b00a4-8f26-4be6-b478-bf6474616237",
+      "slug": "mtpcht-apvrh-mrvpdt-am-prchym-tshvbym-tkc0em",
+      "name": "מטפחת אפורה מרופדת עם פרחים צהובים",
+      "name_translations": {},
+      "description": "<p>מטפחת בגוון אפור בטקסטורת משבצות תפורה, מעוטרת ברקמת פאייטים כסופה ובבד פרחוני צהוב עם פרחים כחולים-לבנים. גדילי חרוזים כסופים תלויים להשלמת המראה.</p>",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 100,
+      "base_price": 135,
+      "sale_price": 100,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-1782396507545-bkp3hb.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/mtpcht-apvrh-mrvpdt-am-prchym-tshvbym-tkc0em",
+      "categories": [],
+      "updated_at": "2026-06-25T14:08:48.179Z"
+    },
+    {
+      "id": "ffca79a1-02aa-48bd-a74f-57d2a8d920f6",
+      "slug": "mtpcht-yrvk-zyt-am-hdps-aly-kamv-4sgj7e",
+      "name": "מטפחת ירוק זית עם הדפס עלי קאמו",
+      "name_translations": {},
+      "description": "<p>מטפחת בסגנון צעיר ורענן בגוון ירוק זית – בד טקסטורה חלק בשילוב בד הדפס עלים בסגנון קאמו זהוב. מעוטרת בציצית ליים וסגול. מראה טבעי ואופנתי.</p>",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 100,
+      "base_price": 135,
+      "sale_price": 100,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-1782396599465-1x0vbk.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/mtpcht-yrvk-zyt-am-hdps-aly-kamv-4sgj7e",
+      "categories": [],
+      "updated_at": "2026-06-25T14:10:10.144Z"
+    },
+    {
+      "id": "bc660b2e-c498-463d-bb79-720c45a0f8a8",
+      "slug": "mtpcht-sgvlh-am-shypvn-vpayytym-jat9gx",
+      "name": "מטפחת סגולה עם שיפון ופאייטים",
+      "name_translations": {},
+      "description": "מטפחת אלגנטית בגוון סגול-שזיף בשילוב בד פרחוני כתום, עם שכבת שיפון אפור שקוף מעוטרת פאייטים מנצנצים ושרשראות תלויות. לעיצוב יוקרתי וייחודי.",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 100,
+      "base_price": 135,
+      "sale_price": 100,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/mtpcht-sgvlh-am-shypvn-vpayytym-jat9gx",
+      "categories": [],
+      "updated_at": "2026-06-25T13:58:18.162Z"
+    }
+  ]
 }
